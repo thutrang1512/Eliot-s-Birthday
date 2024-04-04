@@ -455,7 +455,7 @@ span {
 .avatar {
   position: absolute;
   top:76%;
-  left: 32%;
+  left: 17vw;
   cursor: pointer;
 }
 .avatar &:hover {
